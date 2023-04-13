@@ -84,11 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Senior Technical Writer"
   location         : "Pune - India"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Tavisca, a cxLoyalty Technology Platform (Division of JP Morgan Chase & Co.)"
   googlescholar    : "https://scholar.google.com/citations?user=09mVsiwAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Rachana-Satao"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,19 +101,13 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/dr-rachana-borawake-satao-731a13146"
   orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+ 
 
 
 # Reading Files
