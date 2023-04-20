@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : " Rachana Satao - Sample documentation"
+title                    : "Rachana Satao - Sample documentation"
 title_separator          : "-"
-name                     : &name " Dr Rachana Anil Satao"
+name                     : &name "Dr Rachana Anil Satao"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+url                      : https://rachanasatao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/Rachana-Sample-doc.io" # the subpath of your site, e.g. "/blog"
+repository               : "rachanasatao/Rachana-Sample-doc.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
